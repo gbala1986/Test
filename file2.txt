@@ -1,0 +1,2 @@
+This file2.txt modified version 
+Hi file to be edited
